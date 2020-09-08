@@ -1,0 +1,27 @@
+body {
+    background-color: #3A263E;
+}
+
+h1 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 52px;
+    color: #7C5A82;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: bisque;
+}
+
+.center-container {
+    text-align: center;
+    margin: auto;
+}
+
+
